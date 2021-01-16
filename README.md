@@ -1,6 +1,6 @@
 # Go Temperature Monitor for AM2302 on Raspberry Pi
 
-This small program will use the sensor AM2302 with [this go-dht library](https://github.com/MichaelS11/go-dht) to send data to [Adafruit](htpps://io.adafruit.com).
+This small program will use the sensor AM2302 with [this go-dht library](https://github.com/MichaelS11/go-dht) to send data to [Adafruit](https://io.adafruit.com).
 
 ## How to Use it?
 
